@@ -5,7 +5,7 @@
 ## Features
 
 - Real-time video streaming with ZEGOCLOUD UIKit
-- Fully responsive design for desktop
+- Fully responsive design for desktop and mobile
 - Fast build and development environment using Vite
 - Smooth navigation using React Router
 - Clean and modular component-based structure
@@ -20,6 +20,7 @@
 
 ## Project Structure
 
+```
 Live Stream/
 └── live-streaming/
     ├── public/
