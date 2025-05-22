@@ -22,14 +22,21 @@
 
 ```
 Live Stream/
+├── package-lock.json
 └── live-streaming/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   ├── pages/
-    │   ├── App.jsx
-    │   └── main.jsx
+    ├── .gitignore
+    ├── eslint.config.js
+    ├── index.html
+    ├── package-lock.json
     ├── package.json
-    └── vite.config.js
+    ├── README.md
+    ├── vite.config.js
+    ├── node_modules/
+    │   ├── .bin/
+    │   ├── .vite/
+    │   ├── .vite-temp/
+    │   └── @ampproject/
+    │       └── remapping/
+    └── ...
 
 
