@@ -20,15 +20,6 @@
 
 ## Project Structure
 
-Live Stream/
-└── live-streaming/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.jsx
-│ └── main.jsx
-├── package.json
-└── vite.config.js
+<pre> ```plaintext Live Stream/ └── live-streaming/ ├── public/ ├── src/ │ ├── components/ │ ├── pages/ │ ├── App.jsx │ └── main.jsx ├── package.json └── vite.config.js ``` </pre>
 
 
